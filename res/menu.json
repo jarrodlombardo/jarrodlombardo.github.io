@@ -116,5 +116,345 @@
       ,"desc":  "Thin rice crepe filled with spiced seafood curry. Choices: shrimp, red crab meat, prawn or fish"
       }
     ]}
+    ,{"name":"Full Course Meals"
+    ,"desc":""
+    ,"items":
+      [{"name": "Vegetable Thali"
+      ,"price": "14.95"
+      ,"desc":  "Any two vegetable dish, rice, roti, papadam, raita, vegetable samosa and dessert"
+      }
+      ,{"name": "Meat Thali"
+      ,"price": "17.95"
+      ,"desc":  "One dish of curried chicken or beef or lamb served with two vegetable dish rice, roti, papadam, raita, vegetable samosa and dessert"
+      }
+      ,{"name": "Seafood Thali"
+      ,"price": "18.95"
+      ,"desc":  "One dish of prawn, shrimp or fish served with two vegetable dish, rice, roti, papadam, raita, vegetable samosa and dessert"
+      }
+    ]}
+    ,{"name":"Dosa"
+    ,"desc":"(All the Dosa served with Sambar & Coconut Chutney)"
+    ,"items":
+      [{"name": "Plain Dosa"
+      ,"price": "5.95"
+      ,"desc":  "Thin rice crepe & lenthil crepe"
+      }
+      ,{"name": "Masala Dosa"
+      ,"price": "7.45"
+      ,"desc":  "Thin Rice crepe filled with spiced potatoes & onions"
+      }
+      ,{"name": "Rava Dosa"
+      ,"price": "6.95"
+      ,"desc":  "Cream of wheat & rice, spiced & topped with onions & green chillies"
+      }
+      ,{"name": "Rava Masala Dosa"
+      ,"price": "7.95"
+      ,"desc":  "Cream of wheat & rice crepe stuffed with spicy potatoes & onions"
+      }
+      ,{"name": "Onion Dosa"
+      ,"price": "6.95"
+      ,"desc":  "Thin rice & lenthil crepe topped with onions"
+      }
+      ,{"name": "Egg Dosa"
+      ,"price": "6.95"
+      ,"desc":  "Thin rice crepe filled with spiced egg omelet"
+      }
+      ,{"name": "Beef Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with spiced beef"
+      }
+      ,{"name": "Chicken Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with spiced chicken"
+      }
+      ,{"name": "Chicken Vindaloo Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with hot spiced boneless chicken & potatoes"
+      }
+      ,{"name": "Chicken Matter Alu Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with chicken, green peas & potatoes"
+      }
+      ,{"name": "Chicken Palak Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with spiced chicken & spinach"
+      }
+      ,{"name": "Lamb Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with spiced ground lamb"
+      }
+      ,{"name": "Lamb Vindaloo Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with hot spiced ground lamb & potatoes"
+      }
+      ,{"name": "Lamb Palak Dosa"
+      ,"price": "9.45"
+      ,"desc":  "Thin rice crepe filled with spiced laground lamb & Spinach"
+      }
+      ,{"name": "Fish Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with spiced fish"
+      }
+      ,{"name": "Fish Vindaloo Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with hot spiced fish & potatoes"
+      }
+      ,{"name": "Shrimp Dosa"
+      ,"price": "9.45"
+      ,"desc":  "Thin rice crepe filled with spiced shrimp"
+      }
+      ,{"name": "Shrimp Vindaloo Dosa"
+      ,"price": "9.45"
+      ,"desc":  "Thin rice crepe filled with hot spiced shrimp & potatoes"
+      }
+      ,{"name": "Crab Dosa"
+      ,"price": "9.95"
+      ,"desc":  "Thin rice crepe filled with spiced real crab meat"
+      }
+      ,{"name": "Crab Vindaloo Dosa"
+      ,"price": "9.95"
+      ,"desc":  "Thin rice crepe filled with hot spiced crab meat & potatoes"
+      }
+      ,{"name": "Mix. Veg.Dosa"
+      ,"price": "8.45"
+      ,"desc":  "Thin rice crepe filled with spiced fresh vegetables"
+      }
+      ,{"name": "Gobi Alu Dosa"
+      ,"price": "8.45"
+      ,"desc":  "Thin rice crepe filled with cauliflower & potatoes"
+      }
+      ,{"name": "Palak Alu Dosa"
+      ,"price": "8.45"
+      ,"desc":  "Thin rice crepe filled with spiced spinach & potatoes"
+      }
+      ,{"name": "Palak Paneer Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with spiced spinach & cottage cheese"
+      }
+      ,{"name": "Mattar Alu Dosa"
+      ,"price": "8.45"
+      ,"desc":  "Thin rice crepe filled with spiced green peas & potatoes"
+      }
+      ,{"name": "Matter paneer Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with spiced green peas & homemade cheese"
+      }
+      ,{"name": "Baingan Alu Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with spiced eggplant & potatoes"
+      }
+      ,{"name": "Baingan Bartha Dosa"
+      ,"price": "8.95"
+      ,"desc":  "Thin rice crepe filled with spiced eggplant"
+      }
+      ,{"name": "Prawn Dosa"
+      ,"price": "11.95"
+      ,"desc":  "Thin rice crepe filled with spiced prawns"
+      }
+    ]}
+    ,{"name":"Seafood"
+    ,"desc":""
+    ,"items":
+      [{"name": "Prawn Curry"
+      ,"price": "15.95"
+      ,"desc":  "Prawns cooked with Sri Lankan Masala in coconut milk"
+      }
+      ,{"name": "Prawn Masala"
+      ,"price": "16.50"
+      ,"desc":  "Prawns cooked with green pepper, red pepper, onion & Sri Lankan Masala in thick Spicy sauce"
+      }
+      ,{"name": "Prawn Madras"
+      ,"price": "16.50"
+      ,"desc":  "Prawns Cooked with South Indian Masala in coconut milk"
+      }
+      ,{"name": "Shrimp Curry"
+      ,"price": "12.95"
+      ,"desc":  "Shrimp cooked with Sri Lankan masala in coconut milk"
+      }
+      ,{"name": "Shrimp Masala"
+      ,"price": "13.95"
+      ,"desc":  "Shrimp cooked with green pepper, red pepper, onion & Sri Lankan masala in thick spicy sauce"
+      }
+      ,{"name": "Shrimp Madras"
+      ,"price": "13.95"
+      ,"desc":  "Shrimp cooked with South Indian masala in coconut milk"
+      }
+      ,{"name": "Fish Curry"
+      ,"price": "13.95"
+      ,"desc":  "Fish cooked with Sri Lankan curry powder in coconut milk"
+      }
+      ,{"name": "Fish Masala"
+      ,"price": "13.95"
+      ,"desc":  "Fish cooked with green pepper, red pepper, onion & Sri Lankan masala in thick spicy sauce"
+      }
+      ,{"name": "Fish Madras"
+      ,"price": "13.95"
+      ,"desc":  "Fish cooked with South Indian masala in coconut milk"
+      }
+    ]}
+    ,{"name":""
+    ,"desc":""
+    ,"items":
+      [{"name": ""
+      ,"price": ""
+      ,"desc":  ""
+      }
+CHICKEN
+
+Chicken Curry
+Chicken pices cooked with Sri Lankan Masala in cococnut milk
+
+12.95
+Chicken Madras
+Chicken pices cooked with South Indian Masala in coconut milk
+
+12.95
+Chicken Kurma
+Chicken pieces cooked with kurma masala in buttermilk
+
+13.95
+
+
+
+    ]}
+    ,{"name":""
+    ,"desc":""
+    ,"items":
+      [{"name": ""
+      ,"price": ""
+      ,"desc":  ""
+      }
+LAMB
+
+
+Lamb Curry
+Lamb pieces cooked with Sri Lankan Masala in coconut milk
+
+14.95
+Lamb Madras
+Lamb pieces cooked with South Indian Masala in coconut milk
+
+14.95
+Lamb Palak
+Lamb pieces cooked with spinach, tomatoes & spices
+
+14.95
+Lamb Kurma
+Lamb pieces cooked with kurma masala in butter milk
+
+15.50
+    ]}
+    ,{"name":""
+    ,"desc":""
+    ,"items":
+      [{"name": ""
+      ,"price": ""
+      ,"desc":  ""
+      }
+BEEF
+
+Beef Curry
+Beef pieces cooked with Sri Lankan masala in coconut milk
+
+12.95
+Beef Madras
+Beef pieces cooked with South Indian Masala in coconut milk
+
+12.95
+Beef Palak
+Beef pieces cooked with spinach, tomatoes and spices
+
+12.95
+Beef Kurma
+Beef pieces cooked with kurma masala in in butter milk
+
+13.50
+    ]}
+    ,{"name":""
+    ,"desc":""
+    ,"items":
+      [{"name": ""
+      ,"price": ""
+      ,"desc":  ""
+      }
+VEGETABLE
+
+Matter Alu
+Green peas & potatoes cooked in curry sauce
+
+9.95
+Matter Paneer
+Green peas & home-made cheese cooked with spices
+
+10.95
+Chana Masala
+Chick peas cooked with onions, ginger, garlic & curry sauce with spices
+
+9.95
+Baigan Bartha
+Mixed roasted eggplant cooked with Sri Lankan masala in coconut milk
+
+10.95
+Mix Veg.Curry
+Mixed vegetables cooked with Sri Lankan Masala in coconut milk
+
+10.95
+Mix Veg.Madras
+Mixed vegetables cooked with South Indian Masala in coconut milk
+
+10.95
+Mix Veg.Kurma
+Mixed vegetables cooked with Kurma Masala in buttermilk
+
+11.95
+Baingan Alu
+Eggplant & potatoes cooked with Sri Lankan masala in cococnut milk
+
+10.95
+Palak Paneer
+Spinach & home-made cheese cooked with spices
+
+10.95
+Palak
+Spinach cooked with spices
+
+9.95
+Gobi Alu
+Fresh Cauliflower, potatoes cooked with spices
+
+10.95
+    ]}
+    ,{"name":""
+    ,"desc":""
+    ,"items":
+      [{"name": ""
+      ,"price": ""
+      ,"desc":  ""
+      }
+    ]}
+    ,{"name":""
+    ,"desc":""
+    ,"items":
+      [{"name": ""
+      ,"price": ""
+      ,"desc":  ""
+      }
+    ]}
+    ,{"name":""
+    ,"desc":""
+    ,"items":
+      [{"name": ""
+      ,"price": ""
+      ,"desc":  ""
+      }
+    ]}
+    ,{"name":""
+    ,"desc":""
+    ,"items":
+      [{"name": ""
+      ,"price": ""
+      ,"desc":  ""
+      }
+    ]}
   ]
 }
