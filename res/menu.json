@@ -17,15 +17,15 @@
       }
       ,{"name":"Vegetable Samosa (2 PCS)"
       ,"price":"3.95"
-      ,"desc":"Two crisp spiced turnover, staffed with green peas &amp; potatoes, served with curried chick peas"
+      ,"desc":"Two crisp spiced turnover, staffed with green peas & potatoes, served with curried chick peas"
       }
       ,{"name":"Meat Samosa (2 PCS)"
       ,"price":"4.95"
-      ,"desc":"Two crisp spiced turnover, stuffed with ground beef &amp; potatoes, served with curried chick peas"
+      ,"desc":"Two crisp spiced turnover, stuffed with ground beef & potatoes, served with curried chick peas"
       }
       ,{"name":"Mutton Rolls (2 PCS)"
       ,"price":"4.95"
-      ,"desc":"Two crisp spiced turnover, stuffed with a meat curry &amp; potatoes."
+      ,"desc":"Two crisp spiced turnover, stuffed with a meat curry & potatoes."
       }
       ,{"name":"Vegetable Rolls (2 PCS)"
       ,"price":"3.95"
@@ -33,7 +33,7 @@
       }
       ,{"name":"Fish Cutlets (2 PCS)"
       ,"price":"3.95"
-      ,"desc":"Two crisp spiced turnover, stuffed with fish, mashed potatoes &amp; onions, served with ketchup"
+      ,"desc":"Two crisp spiced turnover, stuffed with fish, mashed potatoes & onions, served with ketchup"
       }
       ,{"name":"Ulunthu Vadai (2 PCS)"
       ,"price":"3.95"
@@ -114,22 +114,6 @@
       ,{"name":  "4 FT Family Dosa (Sea Food)"
       ,"price": "28.95"
       ,"desc":  "Thin rice crepe filled with spiced seafood curry. Choices: shrimp, red crab meat, prawn or fish"
-      }
-    ]}
-    ,{"name":"Full Course Meals"
-    ,"desc":""
-    ,"items":
-      [{"name": "Vegetable Thali"
-      ,"price": "14.95"
-      ,"desc":  "Any two vegetable dish, rice, roti, papadam, raita, vegetable samosa and dessert"
-      }
-      ,{"name": "Meat Thali"
-      ,"price": "17.95"
-      ,"desc":  "One dish of curried chicken or beef or lamb served with two vegetable dish rice, roti, papadam, raita, vegetable samosa and dessert"
-      }
-      ,{"name": "Seafood Thali"
-      ,"price": "18.95"
-      ,"desc":  "One dish of prawn, shrimp or fish served with two vegetable dish, rice, roti, papadam, raita, vegetable samosa and dessert"
       }
     ]}
     ,{"name":"Dosa"
@@ -292,167 +276,395 @@
       ,"desc":  "Fish cooked with South Indian masala in coconut milk"
       }
     ]}
-    ,{"name":""
+    ,{"name":"Chicken"
     ,"desc":""
     ,"items":
-      [{"name": ""
-      ,"price": ""
+      [{"name": "Chicken Curry"
+      ,"price": "12.95"
+      ,"desc":  "Chicken pices cooked with Sri Lankan Masala in cococnut milk"
+      }
+      ,{"name": "Chicken Madras"
+      ,"price": "12.95"
+      ,"desc":  "Chicken pices cooked with South Indian Masala in coconut milk"
+      }
+      ,{"name": "Chicken Kurma"
+      ,"price": "13.95"
+      ,"desc":  "Chicken pieces cooked with kurma masala in buttermilk"
+      }
+    ]}
+    ,{"name":"Lamb"
+    ,"desc":""
+    ,"items":
+      [{"name": "Lamb Curry"
+      ,"price": "14.95"
+      ,"desc":  "Lamb pieces cooked with Sri Lankan Masala in coconut milk"
+      }
+      ,{"name": "Lamb Madras"
+      ,"price": "14.95"
+      ,"desc":  "Lamb pieces cooked with South Indian Masala in coconut milk"
+      }
+      ,{"name": "Lamb Palak"
+      ,"price": "14.95"
+      ,"desc":  "Lamb pieces cooked with spinach, tomatoes & spices"
+      }
+      ,{"name": "Lamb Kurma"
+      ,"price": "15.50"
+      ,"desc":  "Lamb pieces cooked with kurma masala in butter milk"
+      }
+    ]}
+    ,{"name":"Beef"
+    ,"desc":""
+    ,"items":
+      [{"name": "Beef Curry"
+      ,"price": "12.95"
+      ,"desc":  "Beef pieces cooked with Sri Lankan masala in coconut milk"
+      }
+      ,{"name": "Beef Madras"
+      ,"price": "12.95"
+      ,"desc":  "Beef pieces cooked with South Indian Masala in coconut milk"
+      }
+      ,{"name": "Beef Palak"
+      ,"price": "12.95"
+      ,"desc":  "Beef pieces cooked with spinach, tomatoes and spices"
+      }
+      ,{"name": "Beef Kurma"
+      ,"price": "13.50"
+      ,"desc":  "Beef pieces cooked with kurma masala in in butter milk"
+      }
+    ]}
+    ,{"name":"Deviles"
+    ,"desc":""
+    ,"items":
+      [{"name": "Mutton"
+      ,"price": "11.95"
       ,"desc":  ""
       }
-CHICKEN
-
-Chicken Curry
-Chicken pices cooked with Sri Lankan Masala in cococnut milk
-
-12.95
-Chicken Madras
-Chicken pices cooked with South Indian Masala in coconut milk
-
-12.95
-Chicken Kurma
-Chicken pieces cooked with kurma masala in buttermilk
-
-13.95
-
-
-
-    ]}
-    ,{"name":""
-    ,"desc":""
-    ,"items":
-      [{"name": ""
-      ,"price": ""
+      ,{"name": "Beef"
+      ,"price": "9.95"
       ,"desc":  ""
       }
-LAMB
-
-
-Lamb Curry
-Lamb pieces cooked with Sri Lankan Masala in coconut milk
-
-14.95
-Lamb Madras
-Lamb pieces cooked with South Indian Masala in coconut milk
-
-14.95
-Lamb Palak
-Lamb pieces cooked with spinach, tomatoes & spices
-
-14.95
-Lamb Kurma
-Lamb pieces cooked with kurma masala in butter milk
-
-15.50
-    ]}
-    ,{"name":""
-    ,"desc":""
-    ,"items":
-      [{"name": ""
-      ,"price": ""
+      ,{"name": "Chicken"
+      ,"price": "9.95"
       ,"desc":  ""
       }
-BEEF
-
-Beef Curry
-Beef pieces cooked with Sri Lankan masala in coconut milk
-
-12.95
-Beef Madras
-Beef pieces cooked with South Indian Masala in coconut milk
-
-12.95
-Beef Palak
-Beef pieces cooked with spinach, tomatoes and spices
-
-12.95
-Beef Kurma
-Beef pieces cooked with kurma masala in in butter milk
-
-13.50
-    ]}
-    ,{"name":""
-    ,"desc":""
-    ,"items":
-      [{"name": ""
-      ,"price": ""
-      ,"desc":  ""
-      }
-VEGETABLE
-
-Matter Alu
-Green peas & potatoes cooked in curry sauce
-
-9.95
-Matter Paneer
-Green peas & home-made cheese cooked with spices
-
-10.95
-Chana Masala
-Chick peas cooked with onions, ginger, garlic & curry sauce with spices
-
-9.95
-Baigan Bartha
-Mixed roasted eggplant cooked with Sri Lankan masala in coconut milk
-
-10.95
-Mix Veg.Curry
-Mixed vegetables cooked with Sri Lankan Masala in coconut milk
-
-10.95
-Mix Veg.Madras
-Mixed vegetables cooked with South Indian Masala in coconut milk
-
-10.95
-Mix Veg.Kurma
-Mixed vegetables cooked with Kurma Masala in buttermilk
-
-11.95
-Baingan Alu
-Eggplant & potatoes cooked with Sri Lankan masala in cococnut milk
-
-10.95
-Palak Paneer
-Spinach & home-made cheese cooked with spices
-
-10.95
-Palak
-Spinach cooked with spices
-
-9.95
-Gobi Alu
-Fresh Cauliflower, potatoes cooked with spices
-
-10.95
-    ]}
-    ,{"name":""
-    ,"desc":""
-    ,"items":
-      [{"name": ""
-      ,"price": ""
+      ,{"name": "Prawn"
+      ,"price": "13.95"
       ,"desc":  ""
       }
     ]}
-    ,{"name":""
+    ,{"name":"Vegetable"
     ,"desc":""
     ,"items":
-      [{"name": ""
-      ,"price": ""
+      [{"name": "Matter Alu"
+      ,"price": "9.95"
+      ,"desc":  "Green peas & potatoes cooked in curry sauce"
+      }
+      ,{"name": "Matter Paneer"
+      ,"price": "10.95"
+      ,"desc":  "Green peas & home-made cheese cooked with spices"
+      }
+      ,{"name": "Chana Masala"
+      ,"price": "9.95"
+      ,"desc":  "Chick peas cooked with onions, ginger, garlic & curry sauce with spices"
+      }
+      ,{"name": "Baigan Bartha"
+      ,"price": "10.95"
+      ,"desc":  "Mixed roasted eggplant cooked with Sri Lankan masala in coconut milk"
+      }
+      ,{"name": "Mix Veg.Curry"
+      ,"price": "10.95"
+      ,"desc":  "Mixed vegetables cooked with Sri Lankan Masala in coconut milk"
+      }
+      ,{"name": "Mix Veg.Madras"
+      ,"price": "10.95"
+      ,"desc":  "Mixed vegetables cooked with South Indian Masala in coconut milk"
+      }
+      ,{"name": "Mix Veg.Kurma"
+      ,"price": "11.95"
+      ,"desc":  "Mixed vegetables cooked with Kurma Masala in buttermilk"
+      }
+      ,{"name": "Baingan Alu"
+      ,"price": "10.95"
+      ,"desc":  "Eggplant & potatoes cooked with Sri Lankan masala in cococnut milk"
+      }
+      ,{"name": "Palak Paneer"
+      ,"price": "10.95"
+      ,"desc":  "Spinach & home-made cheese cooked with spices"
+      }
+      ,{"name": "Palak"
+      ,"price": "9.95"
+      ,"desc":  "Spinach cooked with spices"
+      }
+      ,{"name": "Gobi Alu"
+      ,"price": "10.95"
+      ,"desc":  "Fresh Cauliflower, potatoes cooked with spices"
+      }
+    ]}
+    ,{"name":"Sri Lankan Dinner"
+    ,"desc":""
+    ,"items":
+      [{"name": "String Hopper Kothu"
+      ,"price": "8.95"
+      ,"desc":  "String Hoppers stir fried with onion, green chillies, egg and curry choices: Chicken, Beef or Vegetarian"
+      }
+      ,{"name": "Pittu Kothu"
+      ,"price": "8.95"
+      ,"desc":  "Stir fried puttu with onion, green chillies, egg and curry. Choices: Chicken, Beef or Vegetarian"
+      }
+      ,{"name": "Beef Kothu Roti"
+      ,"price": "7.95"
+      ,"desc":  "Chopped roti mixed with onions, green chillies egg and beef curry"
+      }
+      ,{"name": "Chicken Kothu Roti"
+      ,"price": "7.95"
+      ,"desc":  "Chopped roti mixed with onions, green chillies egg and Chicken curry"
+      }
+      ,{"name": "Lamb Kothu Roti"
+      ,"price": "8.95"
+      ,"desc":  "Chopped roti mixed with onions, green chillies egg and Lamb curry"
+      }
+      ,{"name": "Shrimp Kothu Roti"
+      ,"price": "9.95"
+      ,"desc":  "Chopped roti mixed with onions, green chillies egg and Shrimp curry"
+      }
+      ,{"name": "Mixed Sea Food Kothu Roti"
+      ,"price": "10.95"
+      ,"desc":  "Chopped roti mixed with onions, green chilles egg and seafood curry"
+      }
+      ,{"name": "Vegetable Kothu Roti or Egg Kothu"
+      ,"price": "7.50"
+      ,"desc":  "Chopped roti mixed with onions, green chillies egg and veggie curry"
+      }
+      ,{"name": "String Hopper (10 pcs)"
+      ,"price": "5.95"
+      ,"desc":  "Rice noodles formed into lacy circles and steamed to a light and fluffy texture, served with sothi & sambal"
+      }
+      ,{"name": "Puttu (3 pcs)"
+      ,"price": "6.95"
+      ,"desc":  "Puttu is a mixture of fresh rice meal, very lightly roasted & mixed with fresh grated coconut, served with sambal & sambar"
+      }
+      ,{"name": "Dosai (4 pcs)"
+      ,"price": "6.95"
+      ,"desc":  "Served with sothi & sambal"
+      }
+      ,{"name": "Iddly (4pcs)"
+      ,"price": "6.95"
+      ,"desc":  "Steamed urid dhal rice cakes, served with sambal & sambar"
+      }
+      ,{"name": "Utthappam (plain)"
+      ,"price": "5.95"
+      ,"desc":  "Thick rice & lentil pancake"
+      }
+      ,{"name": "Uthappam (vegetable)"
+      ,"price": "7.95"
+      ,"desc":  "Thick rice & lentil pancake topped with vegetables"
+      }
+      ,{"name": "Uthappam (onion)"
+      ,"price": "6.95"
+      ,"desc":  "Thick rice & lentil pancake topped with onions"
+      }
+    ]}
+    ,{"name":"Singaporean Specials"
+    ,"desc":""
+    ,"items":
+      [{"name": "Vegetable Mee Goreng"
+      ,"price": "10.95"
+      ,"desc":  "Mixed Vegetables, egg with noodles in stir fried"
+      }
+      ,{"name": "Chicken Fried Mee Goreng"
+      ,"price": "11.95"
+      ,"desc":  "Chicken, mixed vegetables, egg with noodles in stir fried"
+      }
+      ,{"name": "Beef Fried Mee Goreng"
+      ,"price": "11.95"
+      ,"desc":  "Beef, mixed vegetables, egg with noodles in stir fried"
+      }
+      ,{"name": "Mutton Fried Mee Goreng"
+      ,"price": "12.95"
+      ,"desc":  "Mutton, mixed vegetables, egg with noodles in stir fried"
+      }
+      ,{"name": "Puttu Mayam"
+      ,"price": "8.50"
+      ,"desc":  "String hopper with coconut flakes & palm sugar"
+      }
+    ]}
+    ,{"name":"Full Course Meals"
+    ,"desc":""
+    ,"items":
+      [{"name": "Vegetable Thali"
+      ,"price": "14.95"
+      ,"desc":  "Any two vegetable dish, rice, roti, papadam, raita, vegetable samosa and dessert"
+      }
+      ,{"name": "Meat Thali"
+      ,"price": "17.95"
+      ,"desc":  "One dish of curried chicken or beef or lamb served with two vegetable dish rice, roti, papadam, raita, vegetable samosa and dessert"
+      }
+      ,{"name": "Seafood Thali"
+      ,"price": "18.95"
+      ,"desc":  "One dish of prawn, shrimp or fish served with two vegetable dish, rice, roti, papadam, raita, vegetable samosa and dessert"
+      }
+    ]}
+    ,{"name":"Tandoori Naan"
+    ,"desc":""
+    ,"items":
+      [{"name": "Plain Naan"
+      ,"price": "1.65"
+      ,"desc":  "Leavented bread cooked in hot grill"
+      }
+      ,{"name": "Ginger & Garlic Naan"
+      ,"price": "2.25"
+      ,"desc":  "Levented bread with fresh, chopped garlic and cooked in hot grill"
+      }
+    ]}
+    ,{"name":"Breads"
+    ,"desc":""
+    ,"items":
+      [{"name": "Plain Partha"
+      ,"price": "1.95"
+      ,"desc":  "Multi layered soft flakes paratha cooked in hot grill"
+      }
+      ,{"name": "Alu Paratha"
+      ,"price": "4.95"
+      ,"desc":  "Paratha stuffed with spiced mashed potatoes and cooked in hot grill"
+      }
+      ,{"name": "Egg Paratha"
+      ,"price": "5.95"
+      ,"desc":  "Paratha stuffed with spiced egg omelet and cooked in hot grill"
+      }
+      ,{"name": "Puri"
+      ,"price": "1.95"
+      ,"desc":  "Fried puffed bread"
+      }
+      ,{"name": "Alu Pari (2pcs)"
+      ,"price": "4.95"
+      ,"desc":  ""
+      }
+      ,{"name": "Roti with Gravy (2pcs)"
+      ,"price": "4.95"
       ,"desc":  ""
       }
     ]}
-    ,{"name":""
+    ,{"name":"Side Orders"
     ,"desc":""
     ,"items":
-      [{"name": ""
-      ,"price": ""
+      [{"name": "Plain Rice"
+      ,"price": "2.45"
+      ,"desc":  "Plain steamed basmati Rice"
+      }
+      ,{"name": "Sambar"
+      ,"price": "2.95"
+      ,"desc":  "Spiced lentils with mixed vegetables"
+      }
+      ,{"name": "Mango / Tamrind Chutney"
+      ,"price": "2.50"
+      ,"desc":  "A thick sauce made from unripe mango with fennels seeds, sugar and ginger"
+      }
+      ,{"name": "Pickles"
+      ,"price": "1.95"
       ,"desc":  ""
       }
+      ,{"name": "Rice Pulao"
+      ,"price": "4.95"
+      ,"desc":  "Cooked with green peas, bayleaf, cardomom, cummin, cinnamon stick and cloves"
+      }
+      ,{"name": "Raita"
+      ,"price": "2.00"
+      ,"desc":  "Yogurt mixed with onion and tomato along with roasted cumin seeds"
+      }
+      ,{"name": "Papadam"
+      ,"price": "0.50"
+      ,"desc":  "Sundried paper thin wafer of lentils"
+      }
+      ,{"name": "Sam Bal"
+      ,"price": "1.95"
+      ,"desc":  "Finely grated coconut mixed with a combination of red chillies and other spices"
+      }
     ]}
-    ,{"name":""
+    ,{"name":"Desserts"
     ,"desc":""
     ,"items":
-      [{"name": ""
-      ,"price": ""
+      [{"name": "Gulab Jamun"
+      ,"price": "3.25"
+      ,"desc":  "Dry milk balls fried and soaked in honey syrup"
+      }
+      ,{"name": "Ice Cream"
+      ,"price": "2.95"
+      ,"desc":  "Home made ice cream(Mango, Vanilla & Chocolate)"
+      }
+      ,{"name": "Pista Kulfi"
+      ,"price": "2.95"
+      ,"desc":  "Indian Homemade, milk ice cream, rich with pistachio nuts"
+      }
+      ,{"name": "Vatilapham"
+      ,"price": "4.95"
+      ,"desc":  "A rich pudding of Malay orgin made of coconut milk, brown palm sugar, cashew nuts, eggs and various spices including chinnamon, cloves, cardamoms and nutmeg"
+      }
+    ]}
+    ,{"name":"Shakes & Beverages"
+    ,"desc":""
+    ,"items":
+      [{"name": "Juice"
+      ,"price": "2.25"
+      ,"desc":  "Orange, Apple or Mango"
+      }
+      ,{"name": "Pop"
+      ,"price": "1.75"
+      ,"desc":  "Coke, Diet Coke, 7up, Ginger Ale, Sprite, Root Beer, Orange, Or Ice Tea"
+      }
+      ,{"name": "Sherbert (Faluda)"
+      ,"price": "4.00"
+      ,"desc":  ""
+      }
+      ,{"name": "Mango Shake"
+      ,"price": "4.00"
+      ,"desc":  "Fresh milk whipped with Mango pulp"
+      }
+      ,{"name": "Vanilla Shake"
+      ,"price": "3.50"
+      ,"desc":  ""
+      }
+      ,{"name": "Chocolate Shake"
+      ,"price": "3.50"
+      ,"desc":  ""
+      }
+      ,{"name": "Mango Lassie"
+      ,"price": "4.50"
+      ,"desc":  "Made with mango pulp, yogurt and sugar"
+      }
+      ,{"name": "Lassie"
+      ,"price": "3.50"
+      ,"desc":  "A yogurt-based Indian drink. Your choice of sweet or salted"
+      }
+      ,{"name": "Milk"
+      ,"price": "1.75"
+      ,"desc":  ""
+      }
+      ,{"name": "Tea / Coffee"
+      ,"price": "1.75"
+      ,"desc":  ""
+      }
+      ,{"name": "Chai"
+      ,"price": "1.95"
+      ,"desc":  "Spiced tea with cloves, cardamoms and cinnamon, boiled with milk"
+      }
+    ]}
+    ,{"name":"Take Out Orders"
+    ,"desc":""
+    ,"items":
+      [{"name": "String Hoppers (50 pcs)"
+      ,"price": "15.00"
+      ,"desc":  ""
+      }
+      ,{"name": "Iddly (10 pcs)"
+      ,"price": "9.95"
+      ,"desc":  ""
+      }
+      ,{"name": "Dosa (10 pcs)"
+      ,"price": "9.95"
+      ,"desc":  ""
+      }
+      ,{"name": "Pittu"
+      ,"price": "3.50"
       ,"desc":  ""
       }
     ]}
