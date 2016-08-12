@@ -1,0 +1,120 @@
+{
+  "sections":
+    [{"name":"Appetizers"
+    ,"desc":""
+    ,"items":
+      [{"name":"Vegetable Pakoras"
+      ,"price":"5.95"
+      ,"desc":"Spiced deep fried mixed vegetable fritters in special batter, served with ketchup"
+      }
+      ,{"name":"Gobi Pakoras"
+      ,"price":"5.95"
+      ,"desc":"Spiced deep fried cauliflower fritters in special batter, served with ketchup"
+      }
+      ,{"name":"Fish Pakoras"
+      ,"price":"7.95"
+      ,"desc":"Spiced deep fried fish fritters in special batter, served with ketchup"
+      }
+      ,{"name":"Vegetable Samosa (2 PCS)"
+      ,"price":"3.95"
+      ,"desc":"Two crisp spiced turnover, staffed with green peas &amp; potatoes, served with curried chick peas"
+      }
+      ,{"name":"Meat Samosa (2 PCS)"
+      ,"price":"4.95"
+      ,"desc":"Two crisp spiced turnover, stuffed with ground beef &amp; potatoes, served with curried chick peas"
+      }
+      ,{"name":"Mutton Rolls (2 PCS)"
+      ,"price":"4.95"
+      ,"desc":"Two crisp spiced turnover, stuffed with a meat curry &amp; potatoes."
+      }
+      ,{"name":"Vegetable Rolls (2 PCS)"
+      ,"price":"3.95"
+      ,"desc":"Two crisp spiced turnover, stuffed with a potatoes."
+      }
+      ,{"name":"Fish Cutlets (2 PCS)"
+      ,"price":"3.95"
+      ,"desc":"Two crisp spiced turnover, stuffed with fish, mashed potatoes &amp; onions, served with ketchup"
+      }
+      ,{"name":"Ulunthu Vadai (2 PCS)"
+      ,"price":"3.95"
+      ,"desc":"Two pieces of deep fried urid dhal (black gram dhal) donuts, served with coconut chutney"
+      }
+      ,{"name":"Masala Calamari"
+      ,"price":"7.95"
+      ,"desc":"Spiced deep fried squid mixed with green pepper, red pepper, onions and mixed with special sauce"
+      }
+      ,{"name":"Chicken 65"
+      ,"price":"8.95"
+      ,"desc":"Boneless chicken marinated in special sauce"
+      }
+      ,{"name":"Spicy Chicken Wings (6pcs)"
+      ,"price":"6.95"
+      ,"desc":""
+      }
+    ]}
+    ,{"name":"Nooru's Specials"
+    ,"desc":"(All the Curries served with Rice, Roti, Papadam & Raita)"
+    ,"items":
+      [{"name":  "Chilli Chicken Curry"
+      ,"price": "13.95"
+      ,"desc":  "Boneless chicken cooked with green pepper, red pepper, onion in butter sauce"
+      }
+      ,{"name":  "Tandoori Chicken Tikka"
+      ,"price": "13.95"
+      ,"desc":  "Boneless chicken marinated in our special sauce & grilled with green pepper, red pepper & onion"
+      }
+      ,{"name":  "Butter Chicken"
+      ,"price": "13.95"
+      ,"desc":  "Boneless chicken marinated with a butter sauce cooked in garlic, ginger & sauce"
+      }
+      ,{"name":  "Beef Biriyani"
+      ,"price": "12.95"
+      ,"desc":  "Boneless pieces of beef cooked with basmati rice, cashew nut & spices"
+      }
+      ,{"name":  "Chicken Biriyani"
+      ,"price": "12.95"
+      ,"desc":  "Boneless pieces of chicken cooked with basmati rice, cashew nut & spices"
+      }
+      ,{"name":  "Lamb Biriyani"
+      ,"price": "13.95"
+      ,"desc":  "Boneless pieces of lamb cooked with basmati rice, cashew nut & spices"
+      }
+      ,{"name":  "Vegetable Biriyani"
+      ,"price": "11.95"
+      ,"desc":  "Mixed vegetables cooked with basmati rice, cashew nut & spices"
+      }
+      ,{"name":  "Seafood Biriyani"
+      ,"price": "13.95"
+      ,"desc":  "Fish, Shrimp & Squid cooked with basmati rice, cashew nut & spices"
+      }
+      ,{"name":  "Beef Fried Rice"
+      ,"price": "12.95"
+      ,"desc":  "Spiced beef stir-fried with green peas, carrot, red onion & mix with basmati rice"
+      }
+      ,{"name":  "Chicken Fried Rice"
+      ,"price": "12.95"
+      ,"desc":  "Spiced chicken stir-fried with green peas, carrot, red onion & mix with basmati rice"
+      }
+      ,{"name":  "Vegetable Fried Rice"
+      ,"price": "10.95"
+      ,"desc":  "Spiced mix vegetables stir-fried with basmati rice"
+      }
+      ,{"name":  "4 FT Family Dosa (Plain)"
+      ,"price": "14.95"
+      ,"desc":  "Thin rice crepe & lenthil crepe"
+      }
+      ,{"name":  "4 FT Family Dosa (Vegetable)"
+      ,"price": "19.95"
+      ,"desc":  "Thin rice crepe filled with spiced fresh vegetables"
+      }
+      ,{"name":  "4 FT Family Dosa (Meat)"
+      ,"price": "24.95"
+      ,"desc":  "Thin rice crepe filled with spiced meat curry. Choices: chicken, beef or lamb"
+      }
+      ,{"name":  "4 FT Family Dosa (Sea Food)"
+      ,"price": "28.95"
+      ,"desc":  "Thin rice crepe filled with spiced seafood curry. Choices: shrimp, red crab meat, prawn or fish"
+      }
+    ]}
+  ]
+}

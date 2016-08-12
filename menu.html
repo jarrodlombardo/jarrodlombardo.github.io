@@ -10,24 +10,48 @@
   <!-- Bootstrap latest compiled and minified JavaScript -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jsrender/0.9.80/jsrender.min.js"></script>
+
   <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
   <header id="headnav"></header>
-  <article>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </article>
+  <article id="menuitems"></article>
   <footer id="foot"></footer>
+
+  <script id="menu_template" type="text/x-jsrender">
+    {{for sections}}
+    <section>
+      <h2 class="section_desc">{{>name}}</h2>
+      <p class="section_desc">{{>desc}}</p>
+      <ul>
+        {{for items}}
+        <li>
+          <span class="item_name">{{>name}}</span>
+          <span class="item_price">{{>price}}</span><br>
+          <span class="item_desc">{{>desc}}</span>
+        </li>
+        {{/for}}
+      </ul>
+    </section>
+    {{/for}}
+  </script>
+
   <script>
-    $( "#headnav" ).load( "res/headnav.html", function() {
-      $( "#menu" ).addClass( "active" );
-    } );
-    $( "#foot" ).load( "res/foot.html" );
+    $( "#headnav" ).load(
+      "res/headnav.html",
+      function() {
+        $( "#menu" ).addClass( "active" );
+      }
+      );
+    $( "#foot" ).load(
+      "res/foot.html"
+      );
+    $.getJSON( "res/menu.json", function( data ){
+        var tmpl = $.templates( "#menu_template" );
+        var html = tmpl.render(data);
+        $( "#menuitems" ).html(html);
+      });
   </script>
 </body>
 </html>
