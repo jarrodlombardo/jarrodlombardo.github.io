@@ -26,13 +26,17 @@
         <a data-toggle="collapse" href="#{{>id}}" aria-expanded="false" aria-controls="{{>id}}">{{>name}}</a>
       </h2>
       <div class="collapse" id="{{>id}}">
+        {{if desc}}
         <p class="section_desc">{{>desc}}</p>
+        {{/if}}
         <ul>
           {{for items}}
           <li>
             <span class="item_name">{{>name}}</span>
             <span class="item_price">{{>price}}</span><br>
+            {{if desc}}
             <span class="item_desc">{{>desc}}</span>
+            {{/if}}
           </li>
           {{/for}}
         </ul>
