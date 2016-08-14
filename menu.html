@@ -22,17 +22,21 @@
   <script id="menu_template" type="text/x-jsrender">
     {{for sections}}
     <section>
-      <h2 class="section_desc">{{>name}}</h2>
-      <p class="section_desc">{{>desc}}</p>
-      <ul>
-        {{for items}}
-        <li>
-          <span class="item_name">{{>name}}</span>
-          <span class="item_price">{{>price}}</span><br>
-          <span class="item_desc">{{>desc}}</span>
-        </li>
-        {{/for}}
-      </ul>
+      <h2 class="section_name">
+        <a data-toggle="collapse" href="#{{>id}}" aria-expanded="false" aria-controls="{{>id}}">{{>name}}</a>
+      </h2>
+      <div class="collapse" id="{{>id}}">
+        <p class="section_desc">{{>desc}}</p>
+        <ul>
+          {{for items}}
+          <li>
+            <span class="item_name">{{>name}}</span>
+            <span class="item_price">{{>price}}</span><br>
+            <span class="item_desc">{{>desc}}</span>
+          </li>
+          {{/for}}
+        </ul>
+      </div>
     </section>
     {{/for}}
   </script>
