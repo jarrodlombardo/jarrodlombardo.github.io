@@ -1,0 +1,6 @@
+article {
+    background-image: url("../res/parotta.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
