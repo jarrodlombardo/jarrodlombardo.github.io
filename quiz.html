@@ -3,13 +3,17 @@
 <head>
   <title>The Four Tendencies Quiz</title>
   <link rel="stylesheet" type="text/css" href="css/quiz.css">
+
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 </head>
 <body>
   <h1>The Four Tendencies Quiz</h1>
   <p>This quiz was created by Gretchen Rubin. Details and the original, static quiz can be found <a href="http://gretchenrubin.com/happiness_project/2014/03/quiz-are-you-an-upholder-a-questioner-a-rebel-or-an-obliger/">here</a>.</p>
 
   <h2>Upholder</h2>
-  <ul>
+  <ul id="upholder_ul">
     <li><label class="question"><input value="u1" type="checkbox" name="upholder[]"/>
       I love crossing items off my to-do list.
     </label></li>
@@ -46,7 +50,7 @@
   </ul>
 
   <h2>Questioner</h2>
-  <ul>
+  <ul id="questioner_ul">
     <li><label class="question"><input value="q1" type="checkbox" name="questioner[]"/>
       It’s very important for me to make well-reasoned decisions.
     </label></li>
@@ -82,8 +86,8 @@
     </label></li>
   </ul>
 
-<h2>Rebel</h2>
-  <ul>
+  <h2>Rebel</h2>
+  <ul id="rebel_ul">
     <li><label class="question"><input value="r1" type="checkbox" name="rebel[]"/>
       I never make New Year’s resolutions. Why would I commit myself to do something in advance?
     </label></li>
@@ -119,8 +123,8 @@
     </label></li>
   </ul>
 
-<h2>Obliger</h2>
-  <ul>
+  <h2>Obliger</h2>
+  <ul id="obliger_ul">
     <li><label class="question"><input value="o1" type="checkbox" name="obliger[]"/>
       I sometimes describe myself as a “people-pleaser.”
     </label></li>
@@ -156,11 +160,13 @@
     </label></li>
   </ul>
 
-<h2>Results</h2>
-<h3>Upholder</h3>
-<h3>Questioner</h3>
-<h3>Rebel</h3>
-<h3>Obliger</h3>
+  <h2>Results</h2>
+  <h3 id="upholder">Upholder <span class="counter"></span></h3>
+  <h3 id="questioner">Questioner <span class="counter"></span></h3>
+  <h3 id="rebel">Rebel <span class="counter"></span></h3>
+  <h3 id="obliger">Obliger <span class="counter"></span></h3>
+
+  <script type="text/javascript" src="js/quiz.js"></script>
 
 </body>
 </html>
