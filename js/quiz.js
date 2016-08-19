@@ -19,15 +19,15 @@ $(function() {
     updateCounter("obliger");
 })
 
-$("#upholder_ul input:checkbox").on("change", function() {
+$("input.u:checkbox").on("change", function() {
     updateCounter("upholder");
 });
-$("#questioner_ul input:checkbox").on("change", function() {
+$("input.q:checkbox").on("change", function() {
     updateCounter("questioner");
 });
-$("#rebel_ul input:checkbox").on("change", function() {
+$("input.r:checkbox").on("change", function() {
     updateCounter("rebel");
 });
-$("#obliger_ul input:checkbox").on("change", function() {
+$("input.o:checkbox").on("change", function() {
     updateCounter("obliger");
 });
