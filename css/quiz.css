@@ -37,9 +37,3 @@ ul {
     height: 1em;
     position: relative;
 }
-.bar:hover,
-.bar:focus {
-    & .mark {
-       background-color: #aaa; 
-    }
-}
