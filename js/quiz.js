@@ -1,10 +1,7 @@
 function updateCounter(name) {
     var count = $("input[name='"+name+"[]']:checked").length;
-    if(count>0){
-        $("#"+name+" .counter").text(count);
-    }else{
-        $("#"+name+" .counter").text('0');
-    }
+    $("#"+name+" .counter").text(count);
+    $("#"+name+" .mark").css("width", count+"em");
 }
 
 $(document).ready(function(){

@@ -15,3 +15,31 @@ ul {
 .question:hover {
   background-color: lightgray;
 }
+
+.text {
+  	display: flex;
+  	align-items: center;
+  	width: 120px;
+  	background-color: white;
+  	position: absolute;
+  	left: 0;
+  	justify-content: flex-end;
+  	padding-right: 10px;
+}
+
+.bar {
+  	margin-left: 120px;
+}
+.bar .mark {
+    content: "";
+    display: block;
+    background-color: #3d9970;
+    height: 1em;
+    position: relative;
+}
+.bar:hover,
+.bar:focus {
+    & .mark {
+       background-color: #aaa; 
+    }
+}
