@@ -1,13 +1,18 @@
 # Jarrod Lombardo
-#### 202-2250 Commercial Drive
-#### Vancouver, BC V5N 5P9
-#### 604-704-4499
-#### jarrodl@gmail.com
+202-2250 Commercial Drive
 
-## Summary
+Vancouver, BC V5N 5P9
+
+604-704-4499
+
+jarrodl@gmail.com
+
+[Summary of all conferences worked at.](https://docs.google.com/spreadsheets/d/1pH1QzzdFIfV3rtVlbuobAO0wdl-ThdXnv5fSwyjd9qk/edit?usp=sharing)
+
+<!-- ## Summary
   * Excellent problem solving and troubleshooting skills, specializing in geometry and user interface related issues.
   * Able to ramp up quickly on new technologies such as programming languages, interaction frameworks, and input devices.
-  * Effective as part of a team or alone.
+  * Effective as part of a team or alone. -->
 
 ## Conference Related Experience
 
@@ -21,12 +26,22 @@
   * Participation in the Development recruiting process, including initial sourcing of candidates, interviewing of candidates, and making offers.
   * Lead a teams of up to 250 peers at Tableau Conference (2012-Present) to manage up to 80 breakout session rooms during 5 days of conference, plus months of planning beforehand.
 
-### OFM
+### Department Head, Of Facilitation Magic
+#### Nan Desu Kan    Denver, Colorado    June 2017 - Present (part-time, volunteer)
+  * Continually consult with Logistics, Operations, and Line Control staff throughout the convention to ensure any gaps between their responsibilities are filled.
+  * Assisted the Board of Directors with any unexpected or sensitive tasks that must succeed
+  <!-- * Lead the on-site Logistics team to solve problems that come up during the course of the convention.
+  * Organized the attendee crowds and event line routes.
+  * Arranged for sparse resources (people and equipment) to be in the right place at the right time.
+  * Patrolled the convention areas looking for any security or safety risks.
+  * Mediated minor issues between attendees and staff members. -->
 
-### PAX South
+### Game Demo Staff
+#### North Star Games    Philidelphia, Pennsylvania    November 2017 (part-time, volunteer)
+  * ADD DUTIES FOR THIS
 
-### Logistics Department Head
-#### Nan Desu Kan    Denver, Colorado    March 2007 - Present (part-time, volunteer)
+### Department Head, Logistics
+#### Nan Desu Kan    Denver, Colorado    March 2007 - June 2017 (part-time, volunteer)
   * Lead the on-site Logistics team to solve problems that come up during the course of the convention.
   * Organized the attendee crowds and event line routes.
   * Arranged for sparse resources (people and equipment) to be in the right place at the right time.
@@ -162,6 +177,6 @@
   * Prepared and maintained Lightning Mapping Array (LMA) data collection stations for field studies.
   * Wrote programs to assist in data collection and analysis in IDL, Perl, Bash and the C programming languages within the Linux operating system.
  
-## Specialties
-  Adaptability, C++, C# (.NET 4 and 3.5), Cleanroom Programming, curses (programming library), Documentation, Formal Logic, Group Management, LaTeX, Leader, MFC Visual C++, Modern Algebra, Problem Solving, Python, Qt, Self-Starter, Trident (mshtml.dll), Troubleshooting, UI Layout, UX Design Implementation, Windows Presentation Foundation (WPF), Zero-Defect Programming Methodology, Zoom
+<!-- ## Specialties
+  Adaptability, C++, C# (.NET 4 and 3.5), Cleanroom Programming, curses (programming library), Documentation, Formal Logic, Group Management, LaTeX, Leader, MFC Visual C++, Modern Algebra, Problem Solving, Python, Qt, Self-Starter, Trident (mshtml.dll), Troubleshooting, UI Layout, UX Design Implementation, Windows Presentation Foundation (WPF), Zero-Defect Programming Methodology, Zoom -->
 
