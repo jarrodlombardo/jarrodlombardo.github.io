@@ -23,6 +23,8 @@
 
 ### OFM
 
+### PAX South
+
 ### Logistics Department Head
 #### Nan Desu Kan    Denver, Colorado    March 2007 - Present (part-time, volunteer)
   * Lead the on-site Logistics team to solve problems that come up during the course of the convention.
