@@ -16,16 +16,6 @@ jarrodl@gmail.com
 
 ## Conference Related Experience
 
-### Manager, Development
-#### Tableau Software    Vancouver, BC  January 2016 - Present;    Seattle, Washington  June 2015 - December 2015
-  * Leadership and management of the Development team including resource management, hiring, mentorship, and performance management
-  * Management of resources and risks to ensure on-time and requirement complete delivery of features assigned to team.
-  * Ensuring that the products are developed following an architecture that supports the company�s business plan.
-  * Participation in bug triage, prioritization, and assignment.
-  * Direct supervision of a team of developers.
-  * Participation in the Development recruiting process, including initial sourcing of candidates, interviewing of candidates, and making offers.
-  * Lead a teams of up to 250 peers at Tableau Conference (2012-Present) to manage up to 80 breakout session rooms during 5 days of conference, plus months of planning beforehand.
-
 ### Department Head, Of Facilitation Magic
 #### Nan Desu Kan    Denver, Colorado    June 2017 - Present (part-time, volunteer)
   * Continually consult with Logistics, Operations, and Line Control staff throughout the convention to ensure any gaps between their responsibilities are filled.
@@ -36,8 +26,18 @@ jarrodl@gmail.com
   * Patrolled the convention areas looking for any security or safety risks.
   * Mediated minor issues between attendees and staff members. -->
 
+### Manager, Development
+#### Tableau Software    Vancouver, BC  January 2016 - Present;    Seattle, Washington  June 2015 - December 2015
+  * Leadership and management of the Development team including resource management, hiring, mentorship, and performance management
+  * Management of resources and risks to ensure on-time and requirement complete delivery of features assigned to team.
+  * Ensuring that the products are developed following an architecture that supports the company�s business plan.
+  * Participation in bug triage, prioritization, and assignment.
+  * Direct supervision of a team of developers.
+  * Participation in the Development recruiting process, including initial sourcing of candidates, interviewing of candidates, and making offers.
+  * **Lead a teams of up to 250 peers at Tableau Conference (2012-Present) to manage up to 80 breakout session rooms during 5 days of conference, plus months of planning beforehand.**
+
 ### Game Demo Staff
-#### North Star Games    Philidelphia, Pennsylvania    November 2017 (part-time, volunteer)
+#### North Star Games at PAX Unplugged    Philidelphia, Pennsylvania    November 2017 (part-time, volunteer)
   * ADD DUTIES FOR THIS
 
 ### Department Head, Logistics
@@ -47,6 +47,10 @@ jarrodl@gmail.com
   * Arranged for sparse resources (people and equipment) to be in the right place at the right time.
   * Patrolled the convention areas looking for any security or safety risks.
   * Mediated minor issues between attendees and staff members.
+
+### Treasurer
+#### Licton Springs PPatch Community Garden    Seattle, Washington    October 2013 - November 2015 (part-time, volunteer)
+  * ADD DUTIES FOR THIS
 
 ### Enforcer Manager
 #### Penny Arcade Expo    Seattle, Washington    May 2007 - March 2015 (part-time, volunteer)
