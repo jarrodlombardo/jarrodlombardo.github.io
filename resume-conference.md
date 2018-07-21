@@ -43,12 +43,16 @@ jarrodl@gmail.com
 
 ### Treasurer
 #### Licton Springs PPatch Community Garden    Seattle, Washington    October 2013 - November 2015 (part-time, volunteer)
-* 
-* ADD DUTIES FOR THIS
+* File monthly grant expenditure reports and volunteer hours reports with the City of Seattle Department of Neighborhoods (DON) while the garden was under construction.
+* Regularly meet with DON employees to plan budget details.
+* Schedule materials delivery (lumber, compost, etc.) and arrange POs for payment.
+* Arrange reimbursements for volunteers that purchased items for the garden out-of-pocket.
+* Manage donation accounts.
+* Assist the Steering Committee Group Leader in scheduling and running monthly Steering Committee meetings. 
 
 ### Enforcer Manager
 #### Penny Arcade Expo Prime and East    Seattle, Washington and Boston, Massachusetts   May 2007 - March 2015 (part-time)
-* Worked closely with the Chief of Staff to manage the convention staff (roughly 450 members).
+* Worked closely with the Chief of Staff to manage the convention staff (450-800 members during these years).
 * Created informational documents and training manuals for the new staff members during the lead up to the convention.
 * Arranged for sparse resources (people and equipment) to be in the right place at the right time.
 
@@ -127,7 +131,7 @@ jarrodl@gmail.com
 * Arranged for sparse resources (people and equipment) to be in the right place at the right time.
 * Filled in any apparent gaps in staffing, as possible.
 
-### Assistant Technical Director
+### Theatre Technician
 #### Macey Conference Center    Socorro, New Mexico    September 2001 - May 2004 (part-time)
 * Worked as part of a small staff of Theatre Technicians.
 * Operated and repaired audio and lighting equipment.
