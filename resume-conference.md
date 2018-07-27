@@ -42,8 +42,8 @@ jarrodl@gmail.com
 
 ### Development Manager, Tableau Software
 
-c                   | t
-====================|===================================
+                    |  
+--------------------|-----------------------------------
 Vancouver, BC       | January 2016 - Present (full-time)
 Seattle, Washington | June 2015 - December 2015
 
