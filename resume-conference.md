@@ -1,11 +1,8 @@
 # Jarrod Lombardo
 
-202-2250 Commercial Drive
-
-Vancouver, BC V5N 5P9
-
-604-704-4499
-
+202-2250 Commercial Drive\
+Vancouver, BC V5N 5P9\
+604-704-4499\
 jarrodl@gmail.com
 
 ## Summary
@@ -24,8 +21,7 @@ jarrodl@gmail.com
 
 ### Development Manager, Tableau Software
 
-Vancouver, BC &emsp; January 2016 - Present (full-time)
-
+Vancouver, BC &emsp; January 2016 - Present (full-time)\
 Seattle, Washington &emsp; June 2015 - December 2015
 
 * Lead a team of up to 250 peers at Tableau Conference (2012-Present) to manage up to 80 breakout session rooms during 5 days of conference, plus months of planning beforehand.
@@ -37,8 +33,7 @@ Seattle, Washington &emsp; June 2015 - December 2015
 
 ### Department Head, Of Facilitation Magic, Nan Desu Kan Anime Convention
 
-Denver, Colorado &emsp; June 2017 - Present (part-time, volunteer)
-
+Denver, Colorado &emsp; June 2017 - Present (part-time, volunteer)\
 * Attend planning meetings with Directors and Department Heads to consult broadly, anticipating issues that may arise if we execute those plans.
 * Continually consult with Logistics, Operations, Line Control, and Safety staff throughout the convention to ensure any gaps between their responsibilities are filled.
 * Assisted the Board of Directors with any unexpected or sensitive tasks that must succeed during the convention.
