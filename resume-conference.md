@@ -1,3 +1,24 @@
+Robin McConnell\
+President - Board of Directors\
+Vancouver Comic Arts Association
+
+Dear Robin,
+
+With my record of effectively managing teams at 43 conventions over the past 11 years, I am eager to join VanCAA as your next Festival Director. I hope to leverage my convention and management abilities to more broadly contribute to the comics community.
+
+Some highlights from my convention and community service:
+
+* Over my 17 years of continuous service at the [Nan Desu Kan](http://ndkdenver.org) anime convention, I grew and adapted many skills as the convention expanded. Throughout the year, I regularly consult with the Board of Directors and other Department Heads to anticipate issues that may arise as we execute the plans we are designing. Work with the Directors has included program scheduling, arranging Special Guest flights, purchasing event supplies, and designing floor plans. During the event I continually consult with Logistics, Operations, Line Control, and Safety staff to ensure any gaps between their responsibilities are filled and perform high-level troubleshooting across the venue.
+* During my time with the Licton Springs PPatch Community Garden, I controlled a US$160,000 grant to construct the garden and then managed our donation accounts. I provided monthly financial reports to the City of Seattle (our grantor) while maintaining the construction budget and all financial bookkeeping.
+* At Tableau Software, I am part of the Tableau Conference Leadership team. I am responsible for managing a workgroup of 100-250 Tableau employees from across the company to host 60-80 breakout session and training rooms during the five days of our annual conference attended by up to 17,000 customers. Preparing for this role each year, I am involved in designing floor plans, signage, logistics, and access policies with a variety of other Tableau employees and event vendors. During my primary job as a Development Manager, I manage teams of developers to build and deliver complex desktop and web software by balancing the priorities of features and schedules.
+* I worked closely with the PAX Chief of Staff to manage the PAX West and PAX East gaming convention staff for 14 conventions over 9 years, supervising 450-800 volunteers and staff at each convention.
+* While doing all of the above, I have also volunteered at VanCAF four times in a variety of roles including leading the Panels team in 2017 and leading the Show Floor and Info Desk teams in 2018.
+
+I look forward to scheduling an interview and discussing the plans for VanCAF 2019. Please email me at jarrodl@gmail.com. Thank you for your time and consideration.
+
+Sincerely,\
+Jarrod Lombardo
+
 # Jarrod Lombardo
 
 202-2250 Commercial Drive\
@@ -27,19 +48,20 @@ Seattle, Washington &emsp; June 2015 - December 2015
 * Lead a team of up to 250 peers at Tableau Conference (2012-Present) to manage up to 80 breakout session rooms during 5 days of conference, plus months of planning beforehand.
 * Leadership and management of Software Engineers including resource management, hiring, mentorship, and performance management.
 * Management of resources and risks to ensure on-time and requirement complete delivery of features assigned to team.
-* Direct supervision of a team of developers.
+* Direct supervision of a team of platform and web developers.
 * Ensuring that the products are developed following an architecture that supports the company's business plan.
 * Participation in bug triage, prioritization, and assignment.
 
-### Department Head, Of Facilitation Magic, Nan Desu Kan Anime Convention
+### Department Head, Of Facilitation Magic, Nan Desu Kan anime convention
 
-Denver, Colorado &emsp; June 2017 - Present (part-time, volunteer)\
+Denver, Colorado &emsp; June 2017 - Present (part-time, volunteer)
+
 * Attend planning meetings with Directors and Department Heads to consult broadly, anticipating issues that may arise if we execute those plans.
 * Continually consult with Logistics, Operations, Line Control, and Safety staff throughout the convention to ensure any gaps between their responsibilities are filled.
 * Assisted the Board of Directors with any unexpected or sensitive tasks that must succeed during the convention.
 * Assist the Executive Director with purchasing before the convention.
 
-### Department Head, Logistics, Nan Desu Kan Anime Convention
+### Department Head, Logistics, Nan Desu Kan anime convention
 
 Denver, Colorado &emsp; March 2007 - June 2017 (part-time, volunteer)
 
@@ -61,7 +83,7 @@ Seattle, Washington &emsp; October 2013 - November 2015 (part-time, volunteer)
 * Managed donation accounts.
 * Assisted in scheduling and running monthly Steering Committee meetings.
 
-### Enforcer Manager, Penny Arcade Expo West and East
+### Enforcer Manager, Penny Arcade Expo West and East gaming conventions
 
 Seattle, Washington and Boston, Massachusetts &emsp; May 2007 - March 2015 (part-time)
 
@@ -114,7 +136,7 @@ Socorro, New Mexico &emsp; May 2002 - August 2003 (part-time)
 * Booth Staffer, Topatoco at Emerald City Comic Con &emsp; March 2012 and March 2013 (part-time, volunteer)
 * Troubleshooter, Project A-Kon Anime Convention &emsp; June 2002 - June 2009 (part-time, volunteer)
 * Enforcer, Safety and Spareboard teams, Penny Arcade Expo &emsp; August 2005 - May 2007 (part-time, volunteer)
-* Logistics Staff Member, Nan Desu Kan Anime Convention &emsp; September 2002 - March 2007 (part-time, volunteer)
+* Logistics Staff Member, Nan Desu Kan &emsp; September 2002 - March 2007 (part-time, volunteer)
 * Theatre Technician, Macey Conference Center &emsp; September 2001 - May 2004 (part-time)
 
 <!--
