@@ -114,49 +114,18 @@ Seattle, Washington                                        March 2009 - October 
 * Arranged for sparse resources (people and equipment) to be in the right place at the right time.
 * Mediated major and minor issues between attendees and staff members.
 
-### KTEK Campus Radio Station General Manager, Student Association New Mexico Institute of Mining and Technology
+## Other Notable Conference and Management Experience
 
 ```text
-Socorro, New Mexico                                        September 2004 - May 2005 (part-time)
-```
-
-* Led a small committee organizing events such as concerts and dances.
-* Coordinated with other campus committees to organize large-scale, multiple-day festivals twice a year.
-* Negotiated with the University Administration on  issues such as broadcasting and events, representing the Campus Radio Station and Student Association.
-* Developed radio station employee policy.
-
-<!--* Researched and began implementing 'Part 15' low-power AM radio broadcasting.-->
-
-### Interim Technical Director, Macey Conference Center
-
-```text
-Socorro, New Mexico                                        May 2003 - August 2003 (full-time)
-```
-
-* Operated, repaired, and installed permanent and semi-permanent audio and lighting equipment at the Macey Center Theatre, a 700 seat auditorium and a 100 seat recital hall hosting 5-10 performances per week.
-* Supervised a small staff of theatre technicians, including handling work logs and scheduling.
-
-### Chief Financial Officer, Student Association New Mexico Institute of Mining and Technology
-
-```text
-Socorro, New Mexico                                        May 2002 - August 2003 (part-time)
-```
-
-* Managed the Student Association (SA) financial accounts.
-* Coordinated relationships between the SA and the University Administration financial offices.
-* Supervised all student club income and expense accounts.
-* Chaired the SA Finance Committee responsible for researching and analyzing all SA budgets and finance bills.
-
-## Other Notable Conference Experience
-
-```text
-Enforcer, Tabletop team, Penny Arcade Expo South           January 2016 - Present (part-time)
+Enforcer, Tabletop team, PAX South                         January 2016 - Present (part-time)
 Game Demo Staff, North Star Games at PAX Unplugged         November 2017 (part-time, volunteer)
 Booth Staffer, Topatoco at Emerald City Comic Con          March 2012 and March 2013 (part-time, volunteer)
 Troubleshooter, Project A-Kon Anime Convention             June 2002 - June 2009 (part-time, volunteer)
-Enforcer, Safety and Spareboard teams, Penny Arcade Expo   August 2005 - May 2007 (part-time, volunteer)
+Enforcer, Safety and Spareboard teams, PAX                 August 2005 - May 2007 (part-time, volunteer)
 Logistics Staff Member, Nan Desu Kan                       September 2002 - March 2007 (part-time, volunteer)
-Theatre Technician, Macey Conference Center                September 2001 - May 2004 (part-time)
+KTEK Campus Radio Station General Manager                  September 2004 - May 2005 (part-time)
+Interim Technical Director, Macey Conference Center        May 2003 - August 2003 (full-time)
+CFO, Student Association New Mexico Tech                   May 2002 - August 2003 (part-time)
 ```
 
 <!--
@@ -219,6 +188,39 @@ Socorro, New Mexico &emsp; September 2001 - May 2004 (part-time)
 
 * Worked as part of a small staff of Theatre Technicians.
 * Operated and repaired audio and lighting equipment.
+
+### KTEK Campus Radio Station General Manager, Student Association New Mexico Institute of Mining and Technology
+
+```text
+Socorro, New Mexico                                        September 2004 - May 2005 (part-time)
+```
+
+* Led a small committee organizing events such as concerts and dances.
+* Coordinated with other campus committees to organize large-scale, multiple-day festivals twice a year.
+* Negotiated with the University Administration on  issues such as broadcasting and events, representing the Campus Radio Station and Student Association.
+* Developed radio station employee policy.
+* Researched and began implementing 'Part 15' low-power AM radio broadcasting.
+
+### Interim Technical Director, Macey Conference Center
+
+```text
+Socorro, New Mexico                                        May 2003 - August 2003 (full-time)
+```
+
+* Operated, repaired, and installed permanent and semi-permanent audio and lighting equipment at the Macey Center Theatre, a 700 seat auditorium and a 100 seat recital hall hosting 5-10 performances per week.
+* Supervised a small staff of theatre technicians, including handling work logs and scheduling.
+
+### Chief Financial Officer, Student Association New Mexico Institute of Mining and Technology
+
+```text
+Socorro, New Mexico                                        May 2002 - August 2003 (part-time)
+```
+
+* Managed the Student Association (SA) financial accounts.
+* Coordinated relationships between the SA and the University Administration financial offices.
+* Supervised all student club income and expense accounts.
+* Chaired the SA Finance Committee responsible for researching and analyzing all SA budgets and finance bills.
+
 -->
 
 <!-- ## Other Professional Experience
