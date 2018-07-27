@@ -117,15 +117,15 @@ Seattle, Washington                                        March 2009 - October 
 ## Other Notable Conference and Management Experience
 
 ```text
-Enforcer, Tabletop team, PAX South                         January 2016 - Present (part-time)
-Game Demo Staff, North Star Games at PAX Unplugged         November 2017 (part-time, volunteer)
-Booth Staffer, Topatoco at Emerald City Comic Con          March 2012 and March 2013 (part-time, volunteer)
-Troubleshooter, Project A-Kon Anime Convention             June 2002 - June 2009 (part-time, volunteer)
-Enforcer, Safety and Spareboard teams, PAX                 August 2005 - May 2007 (part-time, volunteer)
-Logistics Staff Member, Nan Desu Kan                       September 2002 - March 2007 (part-time, volunteer)
-KTEK Campus Radio Station General Manager                  September 2004 - May 2005 (part-time)
-Interim Technical Director, Macey Conference Center        May 2003 - August 2003 (full-time)
-CFO, Student Association New Mexico Tech                   May 2002 - August 2003 (part-time)
+●  Enforcer, Tabletop team, PAX South                      January 2016 - Present (part-time)
+●  Game Demo Staff, North Star Games at PAX Unplugged      November 2017 (part-time, volunteer)
+●  Booth Staffer, Topatoco at Emerald City Comic Con       March 2012 and March 2013 (part-time, volunteer)
+●  Troubleshooter, Project A-Kon Anime Convention          June 2002 - June 2009 (part-time, volunteer)
+●  Enforcer, Safety and Spareboard teams, PAX              August 2005 - May 2007 (part-time, volunteer)
+●  Logistics Staff Member, Nan Desu Kan                    September 2002 - March 2007 (part-time, volunteer)
+●  KTEK Campus Radio Station General Manager               September 2004 - May 2005 (part-time)
+●  Interim Technical Director, Macey Conference Center     May 2003 - August 2003 (full-time)
+●  CFO, Student Association New Mexico Tech                May 2002 - August 2003 (part-time)
 ```
 
 <!--
