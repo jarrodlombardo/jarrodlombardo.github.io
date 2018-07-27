@@ -29,7 +29,7 @@ Vancouver, BC &emsp; January 2016 - Present (full-time)
 Seattle, Washington &emsp; June 2015 - December 2015
 
 * Lead a team of up to 250 peers at Tableau Conference (2012-Present) to manage up to 80 breakout session rooms during 5 days of conference, plus months of planning beforehand.
-* Leadership and management of Software Engineers including resource management, hiring, mentorship, and performance management. 
+* Leadership and management of Software Engineers including resource management, hiring, mentorship, and performance management.
 * Management of resources and risks to ensure on-time and requirement complete delivery of features assigned to team.
 * Direct supervision of a team of developers.
 * Ensuring that the products are developed following an architecture that supports the company's business plan.
@@ -74,7 +74,7 @@ Seattle, Washington and Boston, Massachusetts &emsp; May 2007 - March 2015 (part
 * Created informational documents and training manuals for the new members during the lead up to the convention.
 * Arranged for sparse resources (people and equipment) to be in the right place at the right time.
 
-### Facilities Director, Steampunk Conventions Inc.
+### Facilities Director, Steampunk Conventions Inc
 
 Seattle, Washington &emsp; March 2009 - October 2013 (part-time, volunteer)
 
@@ -114,6 +114,15 @@ Socorro, New Mexico &emsp; May 2002 - August 2003 (part-time)
 
 ## Other Notable Conference Experience
 
+* Enforcer, Tabletop team, Penny Arcade Expo South &emsp; January 2016 - Present (part-time)
+* Game Demo Staff, North Star Games at PAX Unplugged &emsp; November 2017 (part-time, volunteer)
+* Booth Staffer, Topatoco at Emerald City Comic Con &emsp; March 2012 and March 2013 (part-time, volunteer)
+* Troubleshooter, Project A-Kon Anime Convention &emsp; June 2002 - June 2009 (part-time, volunteer)
+* Enforcer, Safety and Spareboard teams, Penny Arcade Expo &emsp; August 2005 - May 2007 (part-time, volunteer)
+* Logistics Staff Member, Nan Desu Kan Anime Convention &emsp; September 2002 - March 2007 (part-time, volunteer)
+* Theatre Technician, Macey Conference Center &emsp; September 2001 - May 2004 (part-time)
+
+<!--
 ### Enforcer, Tabletop team, Penny Arcade Expo South
 
 San Antonio, Texas &emsp; January 2016 - Present (part-time)
@@ -173,6 +182,7 @@ Socorro, New Mexico &emsp; September 2001 - May 2004 (part-time)
 
 * Worked as part of a small staff of Theatre Technicians.
 * Operated and repaired audio and lighting equipment.
+-->
 
 <!-- ## Other Professional Experience
 
@@ -258,4 +268,3 @@ Socorro, New Mexico &emsp; October 1998 - May 2001 (part-time)
 <!-- ## Specialties
 
 Adaptability, C++, C# (.NET 4 and 3.5), Cleanroom Programming, curses (programming library), Documentation, Formal Logic, Group Management, LaTeX, Leader, MFC Visual C++, Modern Algebra, Problem Solving, Python, Qt, Self-Starter, Trident (mshtml.dll), Troubleshooting, UI Layout, UX Design Implementation, Windows Presentation Foundation (WPF), Zero-Defect Programming Methodology, Zoom -->
-
