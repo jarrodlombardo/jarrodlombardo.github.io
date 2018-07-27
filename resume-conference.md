@@ -43,8 +43,8 @@ jarrodl@gmail.com
 ### Development Manager, Tableau Software
 
 ```text
-Vancouver, BC                                    January 2016 - Present (full-time)
-Seattle, Washington                              June 2015 - December 2015
+Vancouver, BC                                              January 2016 - Present (full-time)
+Seattle, Washington                                        June 2015 - December 2015
 ```
 
 * Lead a team of up to 250 peers at Tableau Conference (2012-Present) to manage up to 80 breakout session rooms during 5 days of conference, plus months of planning beforehand.
@@ -56,7 +56,9 @@ Seattle, Washington                              June 2015 - December 2015
 
 ### Department Head, Of Facilitation Magic, Nan Desu Kan anime convention
 
-```Denver, Colorado                                 June 2017 - Present (part-time, volunteer)```
+```text
+Denver, Colorado                                           June 2017 - Present (part-time, volunteer)
+```
 
 * Attend planning meetings with Directors and Department Heads to consult broadly, anticipating issues that may arise if we execute those plans.
 * Continually consult with Logistics, Operations, Line Control, and Safety staff throughout the convention to ensure any gaps between their responsibilities are filled.
@@ -65,7 +67,9 @@ Seattle, Washington                              June 2015 - December 2015
 
 ### Department Head, Logistics, Nan Desu Kan anime convention
 
-Denver, Colorado &emsp; March 2007 - June 2017 (part-time, volunteer)
+```text
+Denver, Colorado                                           March 2007 - June 2017 (part-time, volunteer)
+```
 
 * Lead the on-site Logistics team to solve problems that come up during the course of the convention.
 * Organized the attendee crowds and event line routes.
@@ -75,7 +79,9 @@ Denver, Colorado &emsp; March 2007 - June 2017 (part-time, volunteer)
 
 ### Treasurer, Licton Springs PPatch Community Garden
 
-Seattle, Washington &emsp; October 2013 - November 2015 (part-time, volunteer)
+```text
+Seattle, Washington                                        October 2013 - November 2015 (part-time, volunteer)
+```
 
 * Controlled US$160,000 grant to build the 67 plot Licton Springs PPatch Community Garden in Seattle.
 * Filed monthly grant expenditure reports and volunteer hours reports with the City of Seattle Department of Neighborhoods while the garden was under construction.
@@ -87,7 +93,9 @@ Seattle, Washington &emsp; October 2013 - November 2015 (part-time, volunteer)
 
 ### Enforcer Manager, Penny Arcade Expo West and East gaming conventions
 
-Seattle, Washington and Boston, Massachusetts &emsp; May 2007 - March 2015 (part-time)
+```text
+Seattle, Washington and Boston, Massachusetts              May 2007 - March 2015 (part-time)
+```
 
 * Worked closely with the Chief of Staff to manage the PAX West and PAX East convention volunteers and staff for 14 conventions over 9 years (450-800 volunteers and staff at each convention).
 * Created informational documents and training manuals for the new members during the lead up to the convention.
@@ -95,7 +103,9 @@ Seattle, Washington and Boston, Massachusetts &emsp; May 2007 - March 2015 (part
 
 ### Facilities Director, Steampunk Conventions Inc
 
-Seattle, Washington &emsp; March 2009 - October 2013 (part-time, volunteer)
+```text
+Seattle, Washington                                        March 2009 - October 2013 (part-time, volunteer)
+```
 
 * Arranged space usage and setup for all rooms for the Steamcon steampunk convention (~2000 attendees over three days).
 * Negotiated terms of hotel/convention center contracts.
@@ -106,7 +116,9 @@ Seattle, Washington &emsp; March 2009 - October 2013 (part-time, volunteer)
 
 ### KTEK Campus Radio Station General Manager, Student Association New Mexico Institute of Mining and Technology
 
-Socorro, New Mexico &emsp; September 2004 - May 2005 (part-time)
+```text
+Socorro, New Mexico                                        September 2004 - May 2005 (part-time)
+```
 
 * Led a small committee organizing events such as concerts and dances.
 * Coordinated with other campus committees to organize large-scale, multiple-day festivals twice a year.
@@ -117,14 +129,18 @@ Socorro, New Mexico &emsp; September 2004 - May 2005 (part-time)
 
 ### Interim Technical Director, Macey Conference Center
 
-Socorro, New Mexico &emsp; May 2003 - August 2003 (full-time)
+```text
+Socorro, New Mexico                                        May 2003 - August 2003 (full-time)
+```
 
 * Operated, repaired, and installed permanent and semi-permanent audio and lighting equipment at the Macey Center Theatre, a 700 seat auditorium and a 100 seat recital hall hosting 5-10 performances per week.
 * Supervised a small staff of theatre technicians, including handling work logs and scheduling.
 
 ### Chief Financial Officer, Student Association New Mexico Institute of Mining and Technology
 
-Socorro, New Mexico &emsp; May 2002 - August 2003 (part-time)
+```text
+Socorro, New Mexico                                        May 2002 - August 2003 (part-time)
+```
 
 * Managed the Student Association (SA) financial accounts.
 * Coordinated relationships between the SA and the University Administration financial offices.
@@ -133,13 +149,15 @@ Socorro, New Mexico &emsp; May 2002 - August 2003 (part-time)
 
 ## Other Notable Conference Experience
 
-* Enforcer, Tabletop team, Penny Arcade Expo South &emsp; January 2016 - Present (part-time)
-* Game Demo Staff, North Star Games at PAX Unplugged &emsp; November 2017 (part-time, volunteer)
-* Booth Staffer, Topatoco at Emerald City Comic Con &emsp; March 2012 and March 2013 (part-time, volunteer)
-* Troubleshooter, Project A-Kon Anime Convention &emsp; June 2002 - June 2009 (part-time, volunteer)
-* Enforcer, Safety and Spareboard teams, Penny Arcade Expo &emsp; August 2005 - May 2007 (part-time, volunteer)
-* Logistics Staff Member, Nan Desu Kan &emsp; September 2002 - March 2007 (part-time, volunteer)
-* Theatre Technician, Macey Conference Center &emsp; September 2001 - May 2004 (part-time)
+```text
+Enforcer, Tabletop team, Penny Arcade Expo South           January 2016 - Present (part-time)
+Game Demo Staff, North Star Games at PAX Unplugged         November 2017 (part-time, volunteer)
+Booth Staffer, Topatoco at Emerald City Comic Con          March 2012 and March 2013 (part-time, volunteer)
+Troubleshooter, Project A-Kon Anime Convention             June 2002 - June 2009 (part-time, volunteer)
+Enforcer, Safety and Spareboard teams, Penny Arcade Expo   August 2005 - May 2007 (part-time, volunteer)
+Logistics Staff Member, Nan Desu Kan                       September 2002 - March 2007 (part-time, volunteer)
+Theatre Technician, Macey Conference Center                September 2001 - May 2004 (part-time)
+```
 
 <!--
 ### Enforcer, Tabletop team, Penny Arcade Expo South
