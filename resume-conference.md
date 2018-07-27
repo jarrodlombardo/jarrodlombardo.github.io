@@ -56,7 +56,7 @@ Seattle, Washington                              June 2015 - December 2015
 
 ### Department Head, Of Facilitation Magic, Nan Desu Kan anime convention
 
-Denver, Colorado &emsp; June 2017 - Present (part-time, volunteer)
+```Denver, Colorado                                 June 2017 - Present (part-time, volunteer)```
 
 * Attend planning meetings with Directors and Department Heads to consult broadly, anticipating issues that may arise if we execute those plans.
 * Continually consult with Logistics, Operations, Line Control, and Safety staff throughout the convention to ensure any gaps between their responsibilities are filled.
