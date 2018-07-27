@@ -42,8 +42,10 @@ jarrodl@gmail.com
 
 ### Development Manager, Tableau Software
 
-Vancouver, BC \hfill January 2016 - Present (full-time)\
-Seattle, Washington &emsp; June 2015 - December 2015
+[]() |
+=====|==
+Vancouver, BC | January 2016 - Present (full-time)
+Seattle, Washington | June 2015 - December 2015
 
 * Lead a team of up to 250 peers at Tableau Conference (2012-Present) to manage up to 80 breakout session rooms during 5 days of conference, plus months of planning beforehand.
 * Leadership and management of Software Engineers including resource management, hiring, mentorship, and performance management.
