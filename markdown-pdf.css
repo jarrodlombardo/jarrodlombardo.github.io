@@ -1,0 +1,39 @@
+body {
+    font-size: 9pt;
+}
+
+code {
+    font-size: 8pt;
+}
+
+h3 {
+    margin-bottom: 0px;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+    padding: 0px;
+    border-radius: 0px;
+    overflow: auto;
+}
+
+pre {
+    border: 0px;
+    border-radius: 0px;
+    font-size: 10pt;
+    margin: 0px;
+    padding: 0px;
+}
+
+pre.hljs {
+    padding: 0em 0.5em;
+}
+
+pre:not(.hljs) {
+    padding: 23px;
+    line-height: 19px;
+}
+
+ul {
+    margin: 0px;
+}
