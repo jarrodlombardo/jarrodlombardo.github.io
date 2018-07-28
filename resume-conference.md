@@ -28,9 +28,9 @@ jarrodl@gmail.com
 
 ## Summary
 
-* one
-* two
-* three
+* Conference leader and organizer for over 11 years with experience with all parts of convention planning and operations
+* Experienced managing budgets and grant reporting
+* Excellent problem solving and troubleshooting skills
 * [Click here for a full list of all conventions I have worked.](https://docs.google.com/spreadsheets/d/1pH1QzzdFIfV3rtVlbuobAO0wdl-ThdXnv5fSwyjd9qk/edit?usp=sharing)
 
 <!-- ## Summary
